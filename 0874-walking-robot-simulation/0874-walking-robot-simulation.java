@@ -24,7 +24,7 @@ class Solution {
                     int nextX = x + directions[dir][0];
                     int nextY = y + directions[dir][1];
 
-                    // 🔍 check obstacle using loop
+                    
                     boolean isObstacle = false;
                     for(int[] ob : obstacles){
                         if(ob[0] == nextX && ob[1] == nextY){
@@ -34,7 +34,7 @@ class Solution {
                     }
 
                     if(isObstacle){
-                        break; // stop moving
+                        break; 
                     }
 
                     x = nextX;
