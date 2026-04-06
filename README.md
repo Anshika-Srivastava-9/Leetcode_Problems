@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [1572-matrix-diagonal-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 ## Matrix
 |  |
 | ------- |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 ## Binary Search
 |  |
 | ------- |
