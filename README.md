@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
