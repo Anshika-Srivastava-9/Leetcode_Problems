@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1572-matrix-diagonal-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
