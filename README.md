@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0724-find-pivot-index) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
 ## Matrix
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
