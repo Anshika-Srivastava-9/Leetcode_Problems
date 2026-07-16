@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
