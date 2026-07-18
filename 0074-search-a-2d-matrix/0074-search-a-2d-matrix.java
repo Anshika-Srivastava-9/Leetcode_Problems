@@ -1,19 +1,15 @@
 class Solution {
-    public boolean searchMatrix(int[][] matrix, int target) {
-        int i=0;
-        int j=matrix[0].length-1;
-    while(i<matrix.length && j>=0){
-        if(matrix[i][j]==target){
-            System.out.println("Target is fount at ("+ i+ " ," +j+")");
-            return true;
+    public boolean searchMatrix(int[][] arr, int target) {
+        int row=arr.length; int cols=arr[0].length;
+        int l=0; int hi=row*cols-1;
+        while(l<=hi){
+            int mid=(l+hi)/2;
+            int midRow=mid/cols;
+            int midCol=mid%cols;
+            if(arr[midRow][midCol]==target) return true;
+            else if (arr[midRow][midCol]<target) l=mid+1;
+            else hi=mid-1;
         }
-        else if(target<matrix[i][j]){
-            j--;
-        }
-        else {
-        i++;
-        }
-    }
     return false;
     }
     }
