@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0035-search-insert-position) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
@@ -151,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
