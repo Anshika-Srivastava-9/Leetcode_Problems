@@ -1,23 +1,31 @@
 class Solution {
     public double myPow(double x, int n) {
-        long N = n;   // convert once
+        long N = n;
 
-        if(N < 0){
-            return 1 / power(x, -N);
+        // Handle negative powers
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
         }
+
         return power(x, N);
     }
 
-    public double power(double x, long n){
-        if(n == 0) return 1;
-
-        double half = power(x, n/2);
-        double halfPowerSq = half * half;
-
-        if(n % 2 != 0){
-            halfPowerSq = x * halfPowerSq;
+    public double power(double x, long n) {
+        
+        if (n == 0) {
+            return 1;
         }
 
-        return halfPowerSq;
+       
+        double ans = power(x, n / 2);
+
+        
+        if (n % 2 == 0) {
+            return ans * ans;
+        }
+
+        
+        return ans * ans * x;
     }
 }
