@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
