@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
