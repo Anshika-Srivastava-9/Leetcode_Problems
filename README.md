@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 ## Bit Manipulation
 |  |
 | ------- |
