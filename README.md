@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2490-circular-sentence](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2490-circular-sentence) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3110-score-of-a-string) |
 ## Greedy
