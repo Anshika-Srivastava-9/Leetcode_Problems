@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3110-score-of-a-string) |
 ## Greedy
 |  |
