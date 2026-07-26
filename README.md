@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
