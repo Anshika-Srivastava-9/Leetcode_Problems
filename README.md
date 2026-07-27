@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
 ## Number Theory
 |  |
 | ------- |
