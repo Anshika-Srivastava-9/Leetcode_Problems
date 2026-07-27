@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
 <!---LeetCode Topics End-->
