@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0078-subsets) |
 ## Number Theory
