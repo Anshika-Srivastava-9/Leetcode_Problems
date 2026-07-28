@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
+| [0372-super-pow](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0372-super-pow) |
 ## Counting
 |  |
 | ------- |
