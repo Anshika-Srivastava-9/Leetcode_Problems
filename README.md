@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
+| [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -234,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 <!---LeetCode Topics End-->
