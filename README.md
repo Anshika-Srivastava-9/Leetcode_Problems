@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Number Theory
 |  |
 | ------- |
