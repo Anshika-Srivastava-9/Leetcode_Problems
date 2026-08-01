@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0498-diagonal-traverse) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0566-reshape-the-matrix) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Memoization
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
