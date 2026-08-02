@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0458-poor-pigs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0458-poor-pigs) |
 | [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -288,4 +291,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
