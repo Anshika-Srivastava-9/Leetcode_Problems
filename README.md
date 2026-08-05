@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1108-defanging-an-ip-address) |
