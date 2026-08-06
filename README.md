@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
 |  |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
