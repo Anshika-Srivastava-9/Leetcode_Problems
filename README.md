@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0486-predict-the-winner) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0874-walking-robot-simulation) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0704-binary-search) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0372-super-pow) |
 | [0400-nth-digit](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0441-arranging-coins) |
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Number Theory
