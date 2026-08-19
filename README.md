@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0672-bulb-switcher-ii](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0672-bulb-switcher-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Anshika-Srivastava-9/Leetcode_Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Number Theory
 |  |
 | ------- |
